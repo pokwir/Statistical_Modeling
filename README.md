@@ -5,6 +5,8 @@
 
 ## Process
 ---
+![Project Flow](https://github.com/pokwir/Statistical_Modeling/blob/main/images/Project_flow.png)
+
 ### Accessing Data using APIs.
 - City selected. Portland, Oregon.
 - initial reconnaissance of the structure of the APIs (City Bike, Yelp, and Foursquare), was done. A get request was sent for each API to understand the structure of the data returned.
