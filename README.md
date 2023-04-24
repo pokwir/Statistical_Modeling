@@ -6,6 +6,7 @@
 ## Process
 ---
 ### Accessing Data using APIs.
+- Selecting city, Portland Oregon. 
 - initial reconnaissance of the structure of the APIs (City Bike, Yelp, and Foursquare), was done. A get request was sent for each API to understand the structure of the data returned.
 - APIs were queried and the response json files were parsed to create and Pandas DataFrame. Each DataFrame was cleaned and transformed in python before exporting to csvs for storage.
 - Using sqlite3, the data was loaded into a sqlite3 database using Python
