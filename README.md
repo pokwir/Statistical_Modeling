@@ -28,4 +28,4 @@ My model could only explain 5.7% (R-squared 0.057) of the patterns in the data. 
 
 ## Future Goals
 ---
-I would chose another city that i'm familiar with like New York, where I have sound geographical knowledge, but also a better sample in terms of depth and size.
+I would chose multiple cities to get a diverse range of data but also a better sample in terms of depth and size.
